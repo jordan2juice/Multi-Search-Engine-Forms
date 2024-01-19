@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  text-align: center;
+  justify-content: center;
+}
+
+main {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+input {
+  border-radius: 40px;
+  padding: 5px;
+  width: 400px;
+}
+
+h2 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.google {
+  color: red;
+}
+
+.bing {
+  color: blue;
+}
+
+.yahoo {
+  color: purple;
+}
+
+button {
+  border-radius: 40px;
+  padding: 5px;
+  background-color: cornflowerblue;
+  color: white;
+  margin-top: 10px;
+  width: 100px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
